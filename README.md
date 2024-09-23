@@ -1,7 +1,6 @@
-![image](https://github.com/user-attachments/assets/4345dedb-3cc4-4d2f-8d15-364d3628ac65)
-
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/_bnPAxhd)
 # U06 Receptapp
+
+![image](https://github.com/user-attachments/assets/4345dedb-3cc4-4d2f-8d15-364d3628ac65)
 
 Denna uppgift handlar om att bygga en receptapp som tillåter användaren att söka på recept och filtera resultat i sök. Både backend och frontend av applikationen ska deployas och kopplas ihop så att de fungerar tillsammans. 
 
